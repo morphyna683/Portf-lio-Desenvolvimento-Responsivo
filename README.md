@@ -36,5 +36,7 @@ Portfólio Faculdade ADS
 <br>
 <i>by Ana Claudia (Morphyne)<br>
 Aluna do curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas</i>
+<br>
+<b>Meu GitHub: </b><a href="https://www.linkedin.com/in/aclauabreu/"><i><u>https://www.linkedin.com/in/aclauabreu/</u></i></a> 
 
 
