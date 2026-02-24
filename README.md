@@ -33,3 +33,8 @@ Portfólio Faculdade ADS
         <480px: grid 1 coluna (mobile).
 <br>
     <p>Testes: Cliquei "Run" no Replit, redimensionei janela e usei DevTools para validar breakpoints. Responsividade confirmada em todos os cenários.</p>
+<br>
+<i>by Ana Claudia (Morphyne)<br>
+Aluna do curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas</i>
+
+
