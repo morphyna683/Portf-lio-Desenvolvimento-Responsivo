@@ -3,7 +3,7 @@ Portfólio Faculdade ADS
 <br><br>
 <h2>Introdução</h2>
 
-<p>A atividade atende ao objetivo da aula prática: implementar responsividade em página web para múltiplos dispositivos, utilizando Replit (template HTML/CSS/JS) e técnicas de media queries. Justificativa: em desenvolvimento web moderno, sites devem se adaptar automaticamente a smartphones, tablets e desktops para melhor UX. Objetivo geral: criar página com 6 blocos responsivos. Específicos: aplicar breakpoints 1280px/768px/480px e testar no navegador.</p><br>
+<p>Esse projeto atende ao objetivo da aula prática: implementar responsividade em página web para múltiplos dispositivos, utilizando Replit (template HTML/CSS/JS) e técnicas de media queries. Justificativa: em desenvolvimento web moderno, sites devem se adaptar automaticamente a smartphones, tablets e desktops para melhor UX. Objetivo geral: criar página com 6 blocos responsivos. Específicos: aplicar breakpoints 1280px/768px/480px e testar no navegador.</p><br>
 <b>Materiais e Infraestrutura:</b>
 <br>
     Plataforma: Replit.com (template "HTML, CSS, JS" - freeware).
